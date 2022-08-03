@@ -1,8 +1,8 @@
-<h1>Jong Hyuk Choi </h1>
+<h1>:smiley: Jong Hyuk Choi :smiley:</h1>
 
 <strong><span style="font-size:25px">Most Interested in</span></strong> <br>
 ![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) <br>
 <strong>Recently Studying</strong><br>
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) 
@@ -16,6 +16,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry7408)](https://solved.ac/harry7408)
+
+<h3>Slowly But Steadily :punch:</h3>
 
 
 
