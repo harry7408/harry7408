@@ -12,10 +12,10 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C_Sharp-239128.svg?&style=for-the-badge&logo=CSharp&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-239128.svg?&style=for-the-badge&logo=CSharp&logoColor=white) <br><br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry7408)](https://solved.ac/harry7408)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry7408)](https://solved.ac/harry7408/) <br><br>
 
 <h3>Slowly But Steadily :punch:</h3>
 
