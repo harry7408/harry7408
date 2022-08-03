@@ -14,8 +14,10 @@
 ![JAVA](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C_Sharp-239128.svg?&style=for-the-badge&logo=CSharp&logoColor=white) <br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry7408)](https://solved.ac/harry7408/) <br><br>
+<h4>Algorithm Study</h4>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=harry7408)](https://solved.ac/harry7408)
+
 
 <h3>Slowly But Steadily :punch:</h3>
 
