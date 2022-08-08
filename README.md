@@ -16,8 +16,8 @@
 
 <h4>Algorithm Study</h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=harry7408)](https://solved.ac/harry7408)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=harry7408)](https://solved.ac/harry7408)
 
 <h3>Slowly But Steadily :punch:</h3>
 
