@@ -1,5 +1,3 @@
-<h1>:smiley: Jong Hyuk Choi :smiley:</h1>
-
 <strong><span style="font-size:25px">Most Interested in</span></strong> <br>
 ![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) <br><br>
