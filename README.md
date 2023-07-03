@@ -12,7 +12,7 @@
 <strong>💻Tools💻<br>
 ![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)<br><br>
