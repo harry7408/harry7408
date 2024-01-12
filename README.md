@@ -1,5 +1,5 @@
 # Choi Jong Hyuk 🐶
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharry7408&count_bg=%23073EEC&title_bg=%2354504F&icon=&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)<br></br>
+
 ## Languages<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -7,8 +7,8 @@
 
 ## IDE<br>
 ![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)<br>
+![Visual Studio](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)<br>
+![IntelliJ](https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)<br><br>
 
 ## Tech <br>
