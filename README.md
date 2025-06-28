@@ -1,5 +1,3 @@
-# Choi Jong Hyuk 🐶
-
 ## Languages<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,9 +13,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)<br></br>
 ## Algorithm Study (C++ -> Java)</h4>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=harry7408)](https://solved.ac/harry7408)<br></br>
 
 ![JongHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry7408&show_icons=true&theme=merko)
 
